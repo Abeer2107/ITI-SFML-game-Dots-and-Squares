@@ -1,2 +1,2 @@
-# -ITI-SFML-game---Boxes-Squares
+# [ITI] SFML-game - Boxes & Squares
 Game Assignment using SFML
