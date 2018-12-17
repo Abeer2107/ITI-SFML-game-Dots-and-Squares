@@ -1,0 +1,46 @@
+﻿  Source.cpp
+d:\my workshop\iti\c++\sfml-game\sfml-game\source.cpp(40): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\my workshop\iti\c++\sfml-game\sfml-game\source.cpp(46): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\my workshop\iti\c++\sfml-game\sfml-game\source.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\my workshop\iti\c++\sfml-game\sfml-game\source.cpp(81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\my workshop\iti\c++\sfml-game\sfml-game\source.cpp(85): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\my workshop\iti\c++\sfml-game\sfml-game\source.cpp(86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\my workshop\iti\c++\sfml-game\sfml-game\source.cpp(94): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\my workshop\iti\c++\sfml-game\sfml-game\source.cpp(101): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\my workshop\iti\c++\sfml-game\sfml-game\source.cpp(121): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\my workshop\iti\c++\sfml-game\sfml-game\source.cpp(127): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\my workshop\iti\c++\sfml-game\sfml-game\source.cpp(145): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\my workshop\iti\c++\sfml-game\sfml-game\source.cpp(170): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML-Game.vcxproj -> D:\My WorkShop\ITI\C++\SFML-Game\Debug\SFML-Game.exe
