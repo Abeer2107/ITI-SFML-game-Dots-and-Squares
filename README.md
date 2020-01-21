@@ -1,7 +1,7 @@
-# [ITI] SFML-game - Boxes & Squares
+# [ITI] SFML-game - Dots & Squares
 Game Assignment using SFML
 
-# Boxes & Squares
+# Dots & Squares
 
 A two players’ game where each player takes a turn alternately to draw / put a line between any two dots among several in a grid.
 Once a player closes a box, that player is allowed an extra turn.
